@@ -1,5 +1,7 @@
+#CHANGEEEE
 CC = gcc
 CFLAGS = -Wall
+AFLAGS
 BUILDDIR = .build/
 TARGET = $(BUILDDIR)program
 SRCS = src/
